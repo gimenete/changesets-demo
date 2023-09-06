@@ -20,5 +20,8 @@
   "homepage": "https://github.com/gimenete/changesets-demo#readme",
   "dependencies": {
     "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18"
   }
 }
